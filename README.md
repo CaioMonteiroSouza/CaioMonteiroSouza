@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estou no momento estudando na FATEC de Franca<br>no curso de análise e desenvolvimento de sistemas.<br>Sou Cientista de Dados Junior.<br>Tenho experiência com modelos estatísticos de previsão, Spark, Pandas<br>Bancos de dados SQL e NoSQL, e AWS.
+Estou no momento estudando na FATEC de Franca<br>no curso de análise e desenvolvimento de sistemas.<br>Sou Cientista de Dados Junior.<br>Tenho experiência com modelos estatísticos de previsão, Spark, Pandas Bancos de dados SQL e NoSQL, e AWS.
 
 
 ## 🌐 Socials:
